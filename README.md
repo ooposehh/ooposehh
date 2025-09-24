@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ooposehh/ooposehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ooposehh/ooposehh** is a ✨ _special_ ✨ repository because its `diam` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
